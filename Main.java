@@ -21,9 +21,7 @@ enum EspecialidadTecnico {
     FINALIZADO
 }
 
-// ==========================================
-// CLASES DE DOMINIO Y NEGOCIO
-// ==========================================
+//TODAS LAS CLASES A DEFEINIR
 
 class Cliente {
     private String documento;
